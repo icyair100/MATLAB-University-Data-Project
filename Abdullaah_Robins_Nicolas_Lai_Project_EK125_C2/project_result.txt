@@ -1,0 +1,30 @@
+University iD: 164924
+The average cost of the Univeristy is: 31452
+The # of undergraduates at the schol is: 9635
+The acceptance rate is: 3.006000e+01
+The average ACT score is: 31
+The average SAT score is: 1343
+The average earnings after college is: 0
+The retention rate of the school is: 9.493000e+01
+University iD: 164924
+The average cost of the Univeristy is: 31452
+The # of undergraduates at the schol is: 9635
+The acceptance rate is: 30.06
+The average ACT score is: 31
+The average SAT score is: 1343
+The average earnings after college is: 0
+The retention rate of the school is: 94.93
+University iD: 164924
+The average cost of the Univeristy is: 31452
+The # of undergraduates at the schol is: 9635
+The acceptance rate is: 30.06'The average ACT score is: 31
+The average SAT score is: 1343
+The average earnings after college is: 0
+The retention rate of the school is: 94.93University iD: 153162
+The average cost of the Univeristy is: 17375
+The # of undergraduates at the schol is: 1121
+The acceptance rate is: 43.59
+The average ACT score is: 27
+The average SAT score is: 1210
+The average earnings after college is: 0
+The retention rate of the school is: 78.89
